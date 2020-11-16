@@ -29,26 +29,4 @@
   "rejectedBy": "123456432",
   "rejectedDate": "2019-08-21",
   "batchProcessStatus": "PROCESSING",
-  "monthSalaryList": [
-      {
-        "monthSalaryId": "30",
-        "staffName": "Emile",
-        "staffIdentificationNumber": "70129",
-        "staffNumber": "79603",
-        "departmentCode": "KEW",
-        "bankCode": "BANKISLAM",
-        "accountNumber": "42417",
-        "subNetTotal": "58265.5708742703",
-        "subIncomeTotal": "21892.3513361409",
-        "subDeductTotal": "56985.5901093842",
-        "monthSalaryBreakdownList": []
-      }
-  ],
-  "ledgerList": []
-      },
-      {
-        "ledgerName": "Akaun Kawalan 4",
-        "ledger": []
-      }
-  ],
 }
