@@ -1,32 +1,31 @@
 {
-  "createdByName": "Pentadbir Sistem",
-  "createdByUsername": "1245600134",
-  "createdBy": "79580",
-  "createdDate": "2019-08-21",
-  "lastModifiedByName": "Pentadbir Sistem",
-  "lastModifiedByUsername": "1245600134",
-  "lastModifiedBy": "123456432",
-  "lastModifiedDate": "2019-08-21",
-  "deleted": false,
-  "deletedByName": "Pentadbir Sistem",
-  "deletedByUsername": "1245600134",
-  "deletedBy": "123456432",
-  "deletedDate": "2019-08-21",
-  "batchSalaryId": 2,
-  "batchSalaryCode": "B2124111",
-  "month": 7,
-  "year": 2019,
-  "totalRecord": 1,
-  "grandSalaryTotal": 1631.20,
-  "approved": false,
-  "approvedByName": "Pentadbir Sistem",
-  "approvedByUsername": "1245600134",
-  "approvedBy": "123456432",
-  "approvedDate": "2019-08-21",
-  "rejected": false,
-  "rejectedByName": "Pentadbir Sistem",
-  "rejectedByUsername": "1245600134",
-  "rejectedBy": "123456432",
-  "rejectedDate": "2019-08-21",
-  "batchProcessStatus": "PROCESSING"
+  "posts": [
+    {
+      "id": 1,
+      "title": "Post 1"
+    },
+    {
+      "id": 2,
+      "title": "Post 2"
+    },
+    {
+      "id": 3,
+      "title": "Post 3"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
