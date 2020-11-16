@@ -41,118 +41,14 @@
         "subNetTotal": "58265.5708742703",
         "subIncomeTotal": "21892.3513361409",
         "subDeductTotal": "56985.5901093842",
-        "monthSalaryBreakdownList": [
-            {
-              "monthSalaryBreakdownId": "39"
-              "description": "GAJI POKOK / SOCSO / KWSPN"
-              "debitVotCode": "B100"
-              "creditVotCode": "L98"
-              "costCentreCode": "455"
-              "breakdownType": "DEDUCTION"
-              "amount": "85972.2509940647"
-              "salaryCode": "78"
-            },
-            {
-              "monthSalaryBreakdownId": "7"
-              "description": "GAJI POKOK / SOCSO / KWSPN"
-              "debitVotCode": "B39"
-              "creditVotCode": "L26"
-              "costCentreCode": "468"
-              "breakdownType": "DEDUCTION"
-              "amount": "75778.289468657"
-              "salaryCode": "89"
-            },
-            {
-              "monthSalaryBreakdownId": "49"
-              "description": "GAJI POKOK / SOCSO / KWSPN"
-              "debitVotCode": "B62"
-              "creditVotCode": "L16"
-              "costCentreCode": "893"
-              "breakdownType": "DEDUCTION"
-              "amount": "75296.1903393525"
-              "salaryCode": "26"
-            },
-            {
-              "monthSalaryBreakdownId": "31"
-              "description": "GAJI POKOK / SOCSO / KWSPN"
-              "debitVotCode": "B76"
-              "creditVotCode": "L30"
-              "costCentreCode": "630"
-              "breakdownType": "DEDUCTION"
-              "amount": "93514.2239216951"
-              "salaryCode": "41"
-            },
-            {
-              "monthSalaryBreakdownId": "26"
-              "description": "GAJI POKOK / SOCSO / KWSPN"
-              "debitVotCode": "B49"
-              "creditVotCode": "L33"
-              "costCentreCode": "679"
-              "breakdownType": "DEDUCTION"
-              "amount": "85909.1419013108"
-              "salaryCode": "12"
-            }
-        ]
+        "monthSalaryBreakdownList": []
       }
   ],
-  "ledgerList": [
-      {
-        "ledgerName": "Akaun Kawalan 3",
-        "ledger": [
-            {
-              "debitVotCode": "B1"
-              "creditVotCode": "L86"
-              "debitAmount": "43635.4442623439"
-              "creditAmount": "25358.2707279534"
-            },
-            {
-              "debitVotCode": "B49"
-              "creditVotCode": "L90"
-              "debitAmount": "13123.6102058545"
-              "creditAmount": "43812.0837711061"
-            },
-            {
-              "debitVotCode": "B59"
-              "creditVotCode": "L59"
-              "debitAmount": "7181.3129032671"
-              "creditAmount": "12213.6563812864"
-            },
-            {
-              "debitVotCode": "B98"
-              "creditVotCode": "L22"
-              "debitAmount": "91724.3477259453"
-              "creditAmount": "21868.8703444269"
-            }
-        ]
+  "ledgerList": []
       },
       {
         "ledgerName": "Akaun Kawalan 4",
-        "ledger": [
-            {
-              "debitVotCode": "B18"
-              "creditVotCode": "L39"
-              "debitAmount": "47108.3515071021"
-              "creditAmount": "9759.6587896475"
-            },
-            {
-              "debitVotCode": "B45"
-              "creditVotCode": "L58"
-              "debitAmount": "79518.0770080642"
-              "creditAmount": "49743.2133005681"
-            },
-            {
-              "debitVotCode": "B56"
-              "creditVotCode": "L73"
-              "debitAmount": "11014.121920414"
-              "creditAmount": "64032.9499678309"
-            },
-            {
-              "debitVotCode": "B51"
-              "creditVotCode": "L41"
-              "debitAmount": "67901.3645112135"
-              "creditAmount": "6175.2015199656"
-            }
-        ]
+        "ledger": []
       }
   ],
 }
