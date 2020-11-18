@@ -1,31 +1,157 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "Post 1"
-    },
-    {
-      "id": 2,
-      "title": "Post 2"
-    },
-    {
-      "id": 3,
-      "title": "Post 3"
-    }
+  "Templating example": "For more information about templating, click the blue 'i' above this editor",
+  "users": [
+      {
+        "userId": "88425",
+        "firstname": "Dangelo",
+        "lastname": "Beier",
+        "friends": [
+            {
+              "id": "00e025a3-04ee-44fb-a4a1-082dc89caf66"
+            },
+            {
+              "id": "33e6c38f-2158-4764-8b93-0f26b1b590e1"
+            },
+            {
+              "id": "273d7760-1284-46bd-96e2-bfa229ba9216"
+            },
+            {
+              "id": "ad955e3e-e3b9-46f4-ad0a-eb352e73a04e"
+            }
+        ]
+      },
+      {
+        "userId": "86708",
+        "firstname": "Hiram",
+        "lastname": "Hayes",
+        "friends": [
+            {
+              "id": "d1534f72-aea4-42e8-9649-ef33617898e0"
+            },
+            {
+              "id": "b74b3156-c973-4618-b4bd-dfd7f0f0cf03"
+            }
+        ]
+      },
+      {
+        "userId": "84736",
+        "firstname": "Aletha",
+        "lastname": "Schiller",
+        "friends": [
+            {
+              "id": "95f5f4dc-93eb-4dfc-99c2-5b873b13fa6a"
+            },
+            {
+              "id": "cd5cf9d0-6bb8-4b84-a45f-bf743fde1fd6"
+            },
+            {
+              "id": "fb676ecc-a6c5-4642-8e40-bf4e514594ed"
+            },
+            {
+              "id": "07dc984c-576f-4f57-9d3e-bbf46e3c499e"
+            },
+            {
+              "id": "5e168971-cc26-41e3-b2f3-1518dc2d22ef"
+            }
+        ]
+      },
+      {
+        "userId": "90623",
+        "firstname": "Karley",
+        "lastname": "Beier",
+        "friends": [
+        ]
+      },
+      {
+        "userId": "49703",
+        "firstname": "Consuelo",
+        "lastname": "Wisoky",
+        "friends": [
+            {
+              "id": "4b561dff-16f0-4be2-b04f-3fd416a0932e"
+            },
+            {
+              "id": "721724f1-d41c-4340-9f2a-b60c6534911d"
+            },
+            {
+              "id": "de651906-9351-47ae-82f3-28726d1ec42c"
+            },
+            {
+              "id": "154f236d-d3e7-46c7-bb4c-9ca01088d4cf"
+            }
+        ]
+      },
+      {
+        "userId": "44319",
+        "firstname": "Kira",
+        "lastname": "Kassulke",
+        "friends": [
+            {
+              "id": "7bffd0bc-1bd6-4134-b591-bb45213ab9dc"
+            },
+            {
+              "id": "d9074083-79bf-4270-b00d-3b3140af69d4"
+            },
+            {
+              "id": "19d8d508-f71d-443e-b3ce-93c02ef6c25e"
+            },
+            {
+              "id": "7dc9745b-8246-485e-bd0f-b839a79ed66d"
+            },
+            {
+              "id": "ab1326d1-b4b9-417b-bcf5-0765f9f9b8a0"
+            }
+        ]
+      },
+      {
+        "userId": "65005",
+        "firstname": "Shawna",
+        "lastname": "Kuvalis",
+        "friends": [
+            {
+              "id": "3dcc0bcf-a1d8-4e9e-9052-8864949e661a"
+            },
+            {
+              "id": "76dbf9c4-f960-4ef0-a3ed-56e784c3cb61"
+            }
+        ]
+      },
+      {
+        "userId": "54090",
+        "firstname": "Isac",
+        "lastname": "Padberg",
+        "friends": [
+            {
+              "id": "13f276f9-540c-4d0e-bdd2-1a3135cf7c4f"
+            },
+            {
+              "id": "5a003dc0-ca61-4095-87f1-78bf0b704e8a"
+            },
+            {
+              "id": "caaf2251-14a7-4aaf-81ad-04f52d48eb1a"
+            }
+        ]
+      },
+      {
+        "userId": "61588",
+        "firstname": "Triston",
+        "lastname": "Yost",
+        "friends": [
+            {
+              "id": "fbebec9a-79d0-4f69-8449-2cd3ec1d7e47"
+            }
+        ]
+      },
+      {
+        "userId": "90194",
+        "firstname": "Zakary",
+        "lastname": "Boyle",
+        "friends": [
+            {
+              "id": "331b6861-c8ea-404d-9c9f-81f098a710a8"
+            }
+        ]
+      }
   ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    },
-    {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "total": "10"
 }
