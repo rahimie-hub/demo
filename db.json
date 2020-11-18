@@ -1,14 +1,118 @@
 {
-  "posts": [
-    { "id": 1, "title": "Test" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
+    "createdByName": "Pentadbir Sistem",
+    "createdByUsername": "1245600134",
+    "createdBy": "96405",
+    "createdDate": "2019-08-21",
+    "lastModifiedByName": "Pentadbir Sistem",
+    "lastModifiedByUsername": "1245600134",
+    "lastModifiedBy": "123456432",
+    "lastModifiedDate": "2019-08-21",
+    "deleted": false,
+    "deletedByName": "Pentadbir Sistem",
+    "deletedByUsername": "1245600134",
+    "deletedBy": "123456432",
+    "deletedDate": "2019-08-21",
+    "batchSalaryId": 2,
+    "batchSalaryCode": "B2124111",
+    "month": 7,
+    "year": 2019,
+    "totalRecord": 1,
+    "grandSalaryTotal": 1631.20,
+    "approved": false,
+    "approvedByName": "Pentadbir Sistem",
+    "approvedByUsername": "1245600134",
+    "approvedBy": "123456432",
+    "approvedDate": "2019-08-21",
+    "rejected": false,
+    "rejectedByName": "Pentadbir Sistem",
+    "rejectedByUsername": "1245600134",
+    "rejectedBy": "123456432",
+    "rejectedDate": "2019-08-21",
+    "batchProcessStatus": "PROCESSING",
+    "monthSalaryList": [
+        {
+          "monthSalaryId": "74",
+          "staffName": "Chauncey",
+          "staffIdentificationNumber": "67794",
+          "staffNumber": "27305",
+          "departmentCode": "KEW",
+          "bankCode": "BANKISLAM",
+          "accountNumber": "19640",
+          "subNetTotal": "36718.0786921545",
+          "subIncomeTotal": "7946.6238132894",
+          "subDeductTotal": "37680.180727592",
+          "monthSalaryBreakdownList": [
+              {
+                "monthSalaryBreakdownId": "44",
+                "description": "GAJI POKOK / SOCSO / KWSPN",
+                "debitVotCode": "B85",
+                "creditVotCode": "L8",
+                "costCentreCode": "792",
+                "breakdownType": "DEDUCTION",
+                "amount": "28662.7223093854",
+                "salaryCode": "26"
+              }
+          ]
+        }
+    ],
+    "ledgerList": [
+        {
+          "ledgerName": "Akaun Kawalan 4",
+          "ledger": [
+              {
+                "debitVotCode": "B3",
+                "creditVotCode": "L48",
+                "debitAmount": "55001.2732366284",
+                "creditAmount": "25407.4806687659"
+              },
+              {
+                "debitVotCode": "B58",
+                "creditVotCode": "L22",
+                "debitAmount": "11989.1873475106",
+                "creditAmount": "71080.5014206984"
+              },
+              {
+                "debitVotCode": "B69",
+                "creditVotCode": "L74",
+                "debitAmount": "17832.3354803407",
+                "creditAmount": "48219.1884147276"
+              },
+              {
+                "debitVotCode": "B98",
+                "creditVotCode": "L92",
+                "debitAmount": "22722.166399617",
+                "creditAmount": "21698.2998782296"
+              }
+          ]
+        },
+        {
+          "ledgerName": "Akaun Kawalan 4",
+          "ledger": [
+              {
+                "debitVotCode": "B71",
+                "creditVotCode": "L48",
+                "debitAmount": "28312.686427314",
+                "creditAmount": "43691.991880646"
+              },
+              {
+                "debitVotCode": "B19",
+                "creditVotCode": "L87",
+                "debitAmount": "85902.4230582007",
+                "creditAmount": "10538.8145793308"
+              },
+              {
+                "debitVotCode": "B19",
+                "creditVotCode": "L69",
+                "debitAmount": "66573.6394131943",
+                "creditAmount": "6608.5992287811"
+              },
+              {
+                "debitVotCode": "B88",
+                "creditVotCode": "L79",
+                "debitAmount": "15090.7273291878",
+                "creditAmount": "66589.936231127"
+              }
+          ]
+        }
+    ]
   }
-}
